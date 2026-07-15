@@ -35,40 +35,46 @@ My interests lie at the intersection of **Machine Learning**, **AI Engineering**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C++
-- SQL
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+</p>
 
-### Machine Learning & Data Science
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
 - Scikit-learn
 - Pandas
 - NumPy
-- TensorFlow
-- PyTorch
 - FAISS
 
-### Backend & Databases
-- FastAPI
-- MongoDB
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
 - SQLAlchemy
 - SQLModel
-- Firebase
+- REST APIs
 
 ### Frontend
-- React
-- Next.js
-- Flutter
-- Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+</p>
 
 ### Cloud & Tools
-- AWS
-- Docker
-- Git & GitHub
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
+</p>
 
 # 🌟 Featured Projects
 
@@ -115,4 +121,17 @@ ArcFace • FaceNet • FAISS • Python
 📧 Email: [sanjanacx117@gmail.com](mailto:sanjanacx117@gmail.com)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjana1117&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1117&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjana1117&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ⭐ Thanks for visiting my profile!
